@@ -4,5 +4,5 @@ end
 
 
 adele_goldberg = Person.new  
-alana_kay = Person.new 
+alan_kay = Person.new 
 
